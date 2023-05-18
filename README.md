@@ -13,7 +13,6 @@
 - [CodingOnes](https://github.com/codingones)
 - [CodingOnes Terraform Modules](https://github.com/codingones-terraform-modules)
 - [CodingOnes Github Templates](https://github.com/codingones-github-templates)
-- 
 
 ### Projets:
 - [Taxi Gestion](https://github.com/taxi-gestion)
