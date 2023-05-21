@@ -1,11 +1,11 @@
 # Hello World !
 
 <div align="center">
-
-[![Romain Cambonie's github stats](https://github-readme-stats.vercel.app/api?username=romain-cambonie&show_icons=true&theme=transparent)](https://github.com/romain-cambonie)
-
-
+![Romain Cambonie's github stats](https://github-readme-stats.vercel.app/api?username=romain-cambonie&show_icons=true&theme=transparent&include_orgs=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romain-cambonie)]
 </div>
+
+
 
 ## Organizations:
 ### Tech:
