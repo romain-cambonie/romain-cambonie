@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romain-cambonie&theme=radical)]((https://github.com/romain-cambonie))
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romain-cambonie&theme=radical&layout=compact)]((https://github.com/romain-cambonie))
 
 </div>
 
