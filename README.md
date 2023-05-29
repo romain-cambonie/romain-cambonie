@@ -22,7 +22,7 @@
 ### Projets:
 - [Taxi Gestion](https://github.com/taxi-gestion)
 - [Personnal Organization](https://github.com/romain-cambonie-organization)
-- [I love automation](https://github.com/i-love-automation)
+
 ### Alumni
 - [BetaGouv](https://github.com/betagouv/)
 - [Immersion Facilité](https://github.com/gip-inclusion/immersion-facile)
